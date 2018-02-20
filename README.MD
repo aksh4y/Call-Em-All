@@ -1,4 +1,4 @@
-# Call-em-all
+# Extend rand11() to rand13()
 
 ### Akshay Sadarangani
 
